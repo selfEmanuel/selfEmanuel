@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selfEmanuel
 - 👀 I’m interested in coding for fun
-- 🌱 I’m currently (try to) learn C# but work on C++
+- 🌱 I’m currently (try to) learn C# but work on C++ and yes SQL is also a big think at the moment 🤓
 - 📫 Reach me on https://twitter.com/self_Emanuel
 
 <!---
